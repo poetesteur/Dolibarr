@@ -1,4 +1,5 @@
 <?php
+//coucou je suis ton dieu 
 // coucou coucou
 /* Copyright (C) 2004-2007 Rodolphe Quiedeville <rodolphe@quiedeville.org>
  * Copyright (C) 2004-2013 Laurent Destailleur  <eldy@users.sourceforge.net>
